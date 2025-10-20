@@ -10,7 +10,7 @@
 
 ### Configuración Inicial
 
-1. **Habilitar GitHub Pages**
+1. **Habilitar GitHub Pages**  
    - Ve a tu repositorio en GitHub
    - Settings > Pages
    - Source: **GitHub Actions**
