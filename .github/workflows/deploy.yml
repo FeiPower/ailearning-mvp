@@ -26,20 +26,17 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
-          cache-dependency-path: './elearning-mvp/package-lock.json'
           
       - name: Install dependencies
-        working-directory: ./elearning-mvp
         run: npm ci
         
       - name: Build
-        working-directory: ./elearning-mvp
         run: npm run build
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./elearning-mvp/dist
+          path: ./dist
 
   deploy:
     environment:
@@ -51,4 +48,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
