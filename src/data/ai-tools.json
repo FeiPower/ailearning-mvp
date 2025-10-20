@@ -1,0 +1,952 @@
+[
+  {
+    "tool_id": "TOOL-001",
+    "name": "ChatGPT",
+    "provider": "OpenAI",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=ChatGPT&backgroundColor=10a37f",
+    "description": "Advanced conversational AI powered by GPT-4 and GPT-3.5. Capable of understanding context, generating human-like responses, and assisting with a wide range of tasks from writing to coding.",
+    "category": "LLM",
+    "use_cases": [
+      "Content creation and copywriting",
+      "Code generation and debugging",
+      "Research and summarization",
+      "Learning and tutoring",
+      "Brainstorming and ideation"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "Free access to GPT-3.5 with standard response times",
+      "paid_plans": [
+        {
+          "name": "ChatGPT Plus",
+          "price": "$20/month",
+          "features": ["GPT-4 access", "Faster response times", "Priority access to new features", "DALL-E integration"]
+        },
+        {
+          "name": "ChatGPT Team",
+          "price": "$25/user/month",
+          "features": ["Everything in Plus", "Collaborative workspace", "Admin console", "Higher usage limits"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://chat.openai.com",
+      "signup": "https://chat.openai.com/auth/login",
+      "documentation": "https://platform.openai.com/docs",
+      "affiliate_link": "https://chat.openai.com"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://chat.openai.com",
+      "expires": null
+    },
+    "features": ["Multi-turn conversations", "Code interpreter", "Image generation", "Web browsing", "Plugin ecosystem"],
+    "rating": 4.7,
+    "popularity_rank": 1,
+    "release_date": "2022-11-30",
+    "last_updated": "2025-10-15"
+  },
+  {
+    "tool_id": "TOOL-002",
+    "name": "Claude",
+    "provider": "Anthropic",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Claude&backgroundColor=d4a574",
+    "description": "Constitutional AI assistant focused on being helpful, harmless, and honest. Excels at long-form content, analysis, and nuanced conversations with strong reasoning capabilities.",
+    "category": "LLM",
+    "use_cases": [
+      "Long-form content analysis",
+      "Research assistance",
+      "Complex problem solving",
+      "Code review and documentation",
+      "Academic writing"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "Free access to Claude with daily message limits",
+      "paid_plans": [
+        {
+          "name": "Claude Pro",
+          "price": "$20/month",
+          "features": ["5x more usage", "Priority access", "Early feature access", "Claude 3 Opus access"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://claude.ai",
+      "signup": "https://claude.ai/login",
+      "documentation": "https://docs.anthropic.com",
+      "affiliate_link": "https://claude.ai"
+    },
+    "coupon": {
+      "available": true,
+      "code": "AILEARNING2025",
+      "discount": "First month 50% off Pro subscription",
+      "partner_link": "https://claude.ai/pro?promo=AILEARNING2025",
+      "expires": "2025-12-31"
+    },
+    "features": ["200K token context", "Vision capabilities", "Artifact creation", "Safe and accurate responses", "API access"],
+    "rating": 4.8,
+    "popularity_rank": 2,
+    "release_date": "2023-03-14",
+    "last_updated": "2025-10-10"
+  },
+  {
+    "tool_id": "TOOL-003",
+    "name": "Google Gemini",
+    "provider": "Google",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Gemini&backgroundColor=4285f4",
+    "description": "Google's multimodal AI model capable of understanding and generating text, code, images, audio, and video. Integrated with Google's ecosystem for seamless productivity.",
+    "category": "LLM",
+    "use_cases": [
+      "Multimodal content creation",
+      "Google Workspace integration",
+      "Code generation",
+      "Research with Google Search",
+      "Data analysis and visualization"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "Free access to Gemini Pro with standard features",
+      "paid_plans": [
+        {
+          "name": "Gemini Advanced",
+          "price": "$19.99/month",
+          "features": ["Gemini Ultra 1.0", "2TB Google One storage", "Gmail and Docs integration", "Priority support"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://gemini.google.com",
+      "signup": "https://gemini.google.com",
+      "documentation": "https://ai.google.dev/docs",
+      "affiliate_link": "https://gemini.google.com"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://gemini.google.com",
+      "expires": null
+    },
+    "features": ["Multimodal understanding", "Google integration", "Real-time information", "Workspace collaboration", "Mobile apps"],
+    "rating": 4.5,
+    "popularity_rank": 3,
+    "release_date": "2023-12-06",
+    "last_updated": "2025-10-12"
+  },
+  {
+    "tool_id": "TOOL-004",
+    "name": "Grok",
+    "provider": "xAI",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Grok&backgroundColor=000000",
+    "description": "AI assistant by xAI with real-time access to X (Twitter) data. Known for its witty personality and up-to-date information on current events and trending topics.",
+    "category": "LLM",
+    "use_cases": [
+      "Real-time news and trends analysis",
+      "Social media insights",
+      "Current events discussion",
+      "Creative writing with personality",
+      "Data-driven research"
+    ],
+    "pricing": {
+      "model": "Paid",
+      "free_tier": "Limited free tier for X Premium+ subscribers",
+      "paid_plans": [
+        {
+          "name": "X Premium+",
+          "price": "$16/month",
+          "features": ["Unlimited Grok access", "X Premium features", "Ad-free experience", "Longer posts"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://x.ai",
+      "signup": "https://x.com/premium",
+      "documentation": "https://x.ai/blog",
+      "affiliate_link": "https://x.com/premium"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://x.com/premium",
+      "expires": null
+    },
+    "features": ["Real-time X data", "Witty personality", "Image understanding", "Current events expertise", "Direct X integration"],
+    "rating": 4.3,
+    "popularity_rank": 6,
+    "release_date": "2023-11-04",
+    "last_updated": "2025-10-01"
+  },
+  {
+    "tool_id": "TOOL-005",
+    "name": "Perplexity AI",
+    "provider": "Perplexity",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Perplexity&backgroundColor=20808d",
+    "description": "AI-powered answer engine that combines search and conversational AI. Provides accurate, cited answers to questions with real-time web search capabilities.",
+    "category": "Research",
+    "use_cases": [
+      "Research and fact-checking",
+      "Academic inquiries",
+      "Market research",
+      "Current events analysis",
+      "Cited content generation"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "Unlimited quick searches with standard AI",
+      "paid_plans": [
+        {
+          "name": "Perplexity Pro",
+          "price": "$20/month",
+          "features": ["GPT-4 and Claude access", "Unlimited Pro searches", "File uploads", "Priority support"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://perplexity.ai",
+      "signup": "https://perplexity.ai/signup",
+      "documentation": "https://perplexity.ai/hub",
+      "affiliate_link": "https://perplexity.ai"
+    },
+    "coupon": {
+      "available": true,
+      "code": "RESEARCH25",
+      "discount": "25% off annual Pro subscription",
+      "partner_link": "https://perplexity.ai/pro?code=RESEARCH25",
+      "expires": "2025-11-30"
+    },
+    "features": ["Source citations", "Real-time search", "Multi-model support", "Thread history", "Mobile app"],
+    "rating": 4.6,
+    "popularity_rank": 5,
+    "release_date": "2022-12-07",
+    "last_updated": "2025-10-08"
+  },
+  {
+    "tool_id": "TOOL-006",
+    "name": "Midjourney",
+    "provider": "Midjourney",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Midjourney&backgroundColor=000000",
+    "description": "Leading AI image generation tool creating stunning, artistic images from text descriptions. Known for its aesthetic quality and community-driven development.",
+    "category": "Image Generation",
+    "use_cases": [
+      "Concept art creation",
+      "Marketing visuals",
+      "Product design mockups",
+      "Artistic exploration",
+      "Illustration generation"
+    ],
+    "pricing": {
+      "model": "Paid",
+      "free_tier": "Free trial ended - paid plans only",
+      "paid_plans": [
+        {
+          "name": "Basic Plan",
+          "price": "$10/month",
+          "features": ["200 image generations/month", "Basic commercial terms", "General access"]
+        },
+        {
+          "name": "Standard Plan",
+          "price": "$30/month",
+          "features": ["Unlimited generations (15h GPU)", "Fast mode hours", "Standard commercial terms"]
+        },
+        {
+          "name": "Pro Plan",
+          "price": "$60/month",
+          "features": ["Unlimited generations (30h GPU)", "Stealth mode", "Pro commercial terms"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://midjourney.com",
+      "signup": "https://discord.com/invite/midjourney",
+      "documentation": "https://docs.midjourney.com",
+      "affiliate_link": "https://midjourney.com"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://midjourney.com",
+      "expires": null
+    },
+    "features": ["High-quality images", "Style versatility", "Prompt engineering", "Community gallery", "Discord integration"],
+    "rating": 4.8,
+    "popularity_rank": 4,
+    "release_date": "2022-07-12",
+    "last_updated": "2025-10-05"
+  },
+  {
+    "tool_id": "TOOL-007",
+    "name": "DALL-E 3",
+    "provider": "OpenAI",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=DALLE&backgroundColor=10a37f",
+    "description": "OpenAI's advanced image generation model integrated with ChatGPT. Creates detailed, accurate images from text descriptions with improved prompt understanding.",
+    "category": "Image Generation",
+    "use_cases": [
+      "Marketing content creation",
+      "Social media graphics",
+      "Concept visualization",
+      "Educational illustrations",
+      "Blog post imagery"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "Limited access through Bing Image Creator",
+      "paid_plans": [
+        {
+          "name": "ChatGPT Plus",
+          "price": "$20/month",
+          "features": ["Integrated DALL-E 3", "High-resolution images", "Prompt refinement", "Commercial usage rights"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://openai.com/dall-e-3",
+      "signup": "https://chat.openai.com",
+      "documentation": "https://platform.openai.com/docs/guides/images",
+      "affiliate_link": "https://chat.openai.com"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://chat.openai.com",
+      "expires": null
+    },
+    "features": ["ChatGPT integration", "Prompt refinement", "High accuracy", "Multiple aspect ratios", "Commercial rights"],
+    "rating": 4.5,
+    "popularity_rank": 7,
+    "release_date": "2023-09-20",
+    "last_updated": "2025-10-01"
+  },
+  {
+    "tool_id": "TOOL-008",
+    "name": "GitHub Copilot",
+    "provider": "GitHub (Microsoft)",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Copilot&backgroundColor=000000",
+    "description": "AI pair programmer that suggests code and entire functions in real-time. Trained on billions of lines of code to help developers write better code faster.",
+    "category": "Code Assistant",
+    "use_cases": [
+      "Code completion and generation",
+      "Function implementation",
+      "Documentation writing",
+      "Test case creation",
+      "Code refactoring"
+    ],
+    "pricing": {
+      "model": "Paid",
+      "free_tier": "Free for verified students and open-source maintainers",
+      "paid_plans": [
+        {
+          "name": "Individual",
+          "price": "$10/month",
+          "features": ["Code suggestions", "Multi-line completions", "Multiple language support", "IDE integration"]
+        },
+        {
+          "name": "Business",
+          "price": "$19/user/month",
+          "features": ["Everything in Individual", "Policy management", "Enterprise support", "License management"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://github.com/features/copilot",
+      "signup": "https://github.com/github-copilot/signup",
+      "documentation": "https://docs.github.com/copilot",
+      "affiliate_link": "https://github.com/features/copilot"
+    },
+    "coupon": {
+      "available": true,
+      "code": "EDU2025",
+      "discount": "Free for students with verified education email",
+      "partner_link": "https://education.github.com/pack",
+      "expires": null
+    },
+    "features": ["Real-time suggestions", "Multi-language support", "IDE integration", "Context awareness", "Chat interface"],
+    "rating": 4.6,
+    "popularity_rank": 8,
+    "release_date": "2021-10-29",
+    "last_updated": "2025-10-14"
+  },
+  {
+    "tool_id": "TOOL-009",
+    "name": "Cursor",
+    "provider": "Anysphere",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Cursor&backgroundColor=000000",
+    "description": "AI-first code editor built on VS Code. Features AI pair programming with codebase awareness, inline editing, and natural language to code conversion.",
+    "category": "Code Assistant",
+    "use_cases": [
+      "Full codebase refactoring",
+      "AI-assisted debugging",
+      "Architecture planning",
+      "Code generation from specs",
+      "Documentation generation"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "Free tier with limited AI requests",
+      "paid_plans": [
+        {
+          "name": "Pro",
+          "price": "$20/month",
+          "features": ["Unlimited AI requests", "GPT-4 access", "Privacy mode", "Priority support"]
+        },
+        {
+          "name": "Business",
+          "price": "$40/user/month",
+          "features": ["Everything in Pro", "Team collaboration", "Admin controls", "Centralized billing"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://cursor.sh",
+      "signup": "https://cursor.sh",
+      "documentation": "https://docs.cursor.sh",
+      "affiliate_link": "https://cursor.sh"
+    },
+    "coupon": {
+      "available": true,
+      "code": "FIRSTMONTH",
+      "discount": "First month free on Pro plan",
+      "partner_link": "https://cursor.sh/pricing?promo=FIRSTMONTH",
+      "expires": "2025-12-31"
+    },
+    "features": ["Codebase awareness", "Inline editing", "Terminal integration", "VS Code compatible", "Multi-file editing"],
+    "rating": 4.9,
+    "popularity_rank": 9,
+    "release_date": "2023-03-01",
+    "last_updated": "2025-10-18"
+  },
+  {
+    "tool_id": "TOOL-010",
+    "name": "Google AI Studio",
+    "provider": "Google",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=AIStudio&backgroundColor=4285f4",
+    "description": "Browser-based IDE for prototyping with Google's Gemini models. Experiment with prompts, tune models, and integrate AI into applications quickly.",
+    "category": "LLM",
+    "use_cases": [
+      "Prompt engineering",
+      "Model testing and comparison",
+      "API integration prototyping",
+      "Fine-tuning experiments",
+      "Application development"
+    ],
+    "pricing": {
+      "model": "Free",
+      "free_tier": "Free access with generous API quotas",
+      "paid_plans": []
+    },
+    "links": {
+      "website": "https://aistudio.google.com",
+      "signup": "https://aistudio.google.com",
+      "documentation": "https://ai.google.dev/tutorials",
+      "affiliate_link": "https://aistudio.google.com"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://aistudio.google.com",
+      "expires": null
+    },
+    "features": ["No-code prototyping", "Multi-turn conversations", "Structured output", "API code generation", "Model tuning"],
+    "rating": 4.4,
+    "popularity_rank": 12,
+    "release_date": "2023-12-13",
+    "last_updated": "2025-10-10"
+  },
+  {
+    "tool_id": "TOOL-011",
+    "name": "Anthropic Console",
+    "provider": "Anthropic",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=AnthropicConsole&backgroundColor=d4a574",
+    "description": "Developer platform for building with Claude API. Test prompts, manage API keys, and monitor usage with enterprise-grade tools and documentation.",
+    "category": "LLM",
+    "use_cases": [
+      "API integration development",
+      "Prompt testing and optimization",
+      "Enterprise AI deployment",
+      "Usage monitoring",
+      "Team collaboration"
+    ],
+    "pricing": {
+      "model": "Paid",
+      "free_tier": "$5 free credit for new users",
+      "paid_plans": [
+        {
+          "name": "Pay-as-you-go",
+          "price": "Usage-based",
+          "features": ["Claude 3 Opus: $15/$75 per million tokens", "Claude 3 Sonnet: $3/$15", "Volume discounts"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://console.anthropic.com",
+      "signup": "https://console.anthropic.com/login",
+      "documentation": "https://docs.anthropic.com",
+      "affiliate_link": "https://console.anthropic.com"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://console.anthropic.com",
+      "expires": null
+    },
+    "features": ["Workbench for testing", "API key management", "Usage analytics", "Team workspaces", "Enterprise support"],
+    "rating": 4.7,
+    "popularity_rank": 11,
+    "release_date": "2023-03-14",
+    "last_updated": "2025-10-10"
+  },
+  {
+    "tool_id": "TOOL-012",
+    "name": "Mistral AI",
+    "provider": "Mistral AI",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Mistral&backgroundColor=f96f5d",
+    "description": "European AI company offering powerful open-source and commercial LLMs. Known for efficiency, multilingual capabilities, and strong performance in reasoning tasks.",
+    "category": "LLM",
+    "use_cases": [
+      "Multilingual applications",
+      "Enterprise AI solutions",
+      "Code generation",
+      "Function calling",
+      "Self-hosted AI"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "Open-source models available for self-hosting",
+      "paid_plans": [
+        {
+          "name": "API Access",
+          "price": "Usage-based",
+          "features": ["Mistral Large: $8/$24 per million tokens", "Mistral Medium: $2.7/$8.1", "Commercial license"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://mistral.ai",
+      "signup": "https://console.mistral.ai",
+      "documentation": "https://docs.mistral.ai",
+      "affiliate_link": "https://mistral.ai"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://mistral.ai",
+      "expires": null
+    },
+    "features": ["Open-source models", "Multilingual support", "Function calling", "JSON mode", "Self-hosting options"],
+    "rating": 4.5,
+    "popularity_rank": 13,
+    "release_date": "2023-09-27",
+    "last_updated": "2025-10-05"
+  },
+  {
+    "tool_id": "TOOL-013",
+    "name": "Stable Diffusion",
+    "provider": "Stability AI",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=StableDiffusion&backgroundColor=000000",
+    "description": "Open-source text-to-image model that can be run locally or through cloud services. Highly customizable with extensive community support and model variants.",
+    "category": "Image Generation",
+    "use_cases": [
+      "Custom model training",
+      "Local image generation",
+      "Style transfer",
+      "Image editing and inpainting",
+      "Commercial artwork"
+    ],
+    "pricing": {
+      "model": "Free",
+      "free_tier": "Free open-source model for local use",
+      "paid_plans": [
+        {
+          "name": "DreamStudio Credits",
+          "price": "$10 for 1000 credits",
+          "features": ["Cloud-based generation", "No setup required", "Multiple models", "Fast processing"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://stability.ai",
+      "signup": "https://dreamstudio.ai",
+      "documentation": "https://platform.stability.ai/docs",
+      "affiliate_link": "https://stability.ai"
+    },
+    "coupon": {
+      "available": true,
+      "code": "STARTUP100",
+      "discount": "100 free credits on DreamStudio signup",
+      "partner_link": "https://dreamstudio.ai/generate?promo=STARTUP100",
+      "expires": null
+    },
+    "features": ["Open source", "Local deployment", "Custom training", "API access", "Community models"],
+    "rating": 4.6,
+    "popularity_rank": 10,
+    "release_date": "2022-08-22",
+    "last_updated": "2025-10-01"
+  },
+  {
+    "tool_id": "TOOL-014",
+    "name": "ElevenLabs",
+    "provider": "ElevenLabs",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=ElevenLabs&backgroundColor=000000",
+    "description": "Advanced AI voice generation and cloning platform. Creates natural-sounding speech in multiple languages with emotion and intonation control.",
+    "category": "Audio",
+    "use_cases": [
+      "Voiceovers and narration",
+      "Audiobook creation",
+      "Podcast production",
+      "Video content dubbing",
+      "Accessibility applications"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "10,000 characters per month",
+      "paid_plans": [
+        {
+          "name": "Starter",
+          "price": "$5/month",
+          "features": ["30,000 characters/month", "Voice cloning", "Commercial license", "Priority queue"]
+        },
+        {
+          "name": "Creator",
+          "price": "$22/month",
+          "features": ["100,000 characters/month", "Instant voice cloning", "Professional voices", "Projects"]
+        },
+        {
+          "name": "Pro",
+          "price": "$99/month",
+          "features": ["500,000 characters/month", "Ultra-realistic voices", "API access", "Custom voices"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://elevenlabs.io",
+      "signup": "https://elevenlabs.io/sign-up",
+      "documentation": "https://docs.elevenlabs.io",
+      "affiliate_link": "https://elevenlabs.io"
+    },
+    "coupon": {
+      "available": true,
+      "code": "VOICE20",
+      "discount": "20% off first 3 months on any plan",
+      "partner_link": "https://elevenlabs.io/pricing?code=VOICE20",
+      "expires": "2025-11-15"
+    },
+    "features": ["Voice cloning", "29 languages", "Emotion control", "Speech-to-speech", "API integration"],
+    "rating": 4.7,
+    "popularity_rank": 14,
+    "release_date": "2022-06-01",
+    "last_updated": "2025-10-07"
+  },
+  {
+    "tool_id": "TOOL-015",
+    "name": "RunwayML",
+    "provider": "Runway",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Runway&backgroundColor=000000",
+    "description": "AI-powered creative suite for video editing and generation. Features text-to-video, image-to-video, motion tracking, and professional video editing tools.",
+    "category": "Video",
+    "use_cases": [
+      "Video content creation",
+      "Motion graphics",
+      "Video editing automation",
+      "Special effects",
+      "Marketing videos"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "125 credits per month (basic features)",
+      "paid_plans": [
+        {
+          "name": "Standard",
+          "price": "$12/month",
+          "features": ["625 credits/month", "Gen-2 access", "4K exports", "Watermark removal"]
+        },
+        {
+          "name": "Pro",
+          "price": "$28/month",
+          "features": ["2250 credits/month", "All AI tools", "Priority processing", "Team collaboration"]
+        },
+        {
+          "name": "Unlimited",
+          "price": "$76/month",
+          "features": ["Unlimited video generations", "All features", "Highest priority", "Advanced editing"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://runwayml.com",
+      "signup": "https://app.runwayml.com/signup",
+      "documentation": "https://help.runwayml.com",
+      "affiliate_link": "https://runwayml.com"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://runwayml.com",
+      "expires": null
+    },
+    "features": ["Text-to-video", "Gen-2 AI", "Motion tracking", "Green screen", "Multi-user editing"],
+    "rating": 4.6,
+    "popularity_rank": 15,
+    "release_date": "2018-05-01",
+    "last_updated": "2025-10-09"
+  },
+  {
+    "tool_id": "TOOL-016",
+    "name": "Notion AI",
+    "provider": "Notion Labs",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Notion&backgroundColor=000000",
+    "description": "AI writing assistant integrated into Notion workspace. Helps with brainstorming, writing, editing, summarizing, and organizing information seamlessly.",
+    "category": "Productivity",
+    "use_cases": [
+      "Content writing and editing",
+      "Meeting notes summarization",
+      "Brainstorming sessions",
+      "Documentation creation",
+      "Project planning"
+    ],
+    "pricing": {
+      "model": "Paid",
+      "free_tier": "Limited free trials for Notion users",
+      "paid_plans": [
+        {
+          "name": "Notion AI Add-on",
+          "price": "$10/member/month",
+          "features": ["Unlimited AI responses", "All AI features", "Integration with Notion", "Team access"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://notion.so/product/ai",
+      "signup": "https://notion.so/signup",
+      "documentation": "https://notion.so/help/guides/what-is-notion-ai",
+      "affiliate_link": "https://notion.so/product/ai"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://notion.so/product/ai",
+      "expires": null
+    },
+    "features": ["Integrated writing assistant", "Content generation", "Summarization", "Translation", "Action items extraction"],
+    "rating": 4.5,
+    "popularity_rank": 16,
+    "release_date": "2023-02-22",
+    "last_updated": "2025-10-05"
+  },
+  {
+    "tool_id": "TOOL-017",
+    "name": "Copy.ai",
+    "provider": "Copy.ai",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Copyai&backgroundColor=9333ea",
+    "description": "AI-powered copywriting tool for marketing content. Generate blog posts, social media content, product descriptions, and ad copy in seconds.",
+    "category": "Productivity",
+    "use_cases": [
+      "Marketing copy creation",
+      "Blog post writing",
+      "Social media content",
+      "Email campaigns",
+      "Product descriptions"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "2,000 words per month",
+      "paid_plans": [
+        {
+          "name": "Pro",
+          "price": "$49/month",
+          "features": ["Unlimited words", "25+ languages", "Priority support", "Blog wizard", "90+ tools"]
+        },
+        {
+          "name": "Team",
+          "price": "$249/month",
+          "features": ["5 user seats", "Collaboration tools", "Brand voice", "Workflows", "API access"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://copy.ai",
+      "signup": "https://app.copy.ai/signup",
+      "documentation": "https://help.copy.ai",
+      "affiliate_link": "https://copy.ai"
+    },
+    "coupon": {
+      "available": true,
+      "code": "MARKETING30",
+      "discount": "30% off first month of Pro plan",
+      "partner_link": "https://app.copy.ai/signup?promo=MARKETING30",
+      "expires": "2025-10-31"
+    },
+    "features": ["90+ templates", "Multilingual support", "Brand voice", "Workflow automation", "Team collaboration"],
+    "rating": 4.4,
+    "popularity_rank": 17,
+    "release_date": "2020-10-01",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "tool_id": "TOOL-018",
+    "name": "Jasper AI",
+    "provider": "Jasper",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Jasper&backgroundColor=8b5cf6",
+    "description": "Enterprise-grade AI content platform for marketing teams. Create on-brand content at scale with advanced templates, workflows, and brand management.",
+    "category": "Productivity",
+    "use_cases": [
+      "Enterprise content creation",
+      "Brand-consistent marketing",
+      "Campaign development",
+      "SEO content",
+      "Multi-channel marketing"
+    ],
+    "pricing": {
+      "model": "Paid",
+      "free_tier": "7-day free trial",
+      "paid_plans": [
+        {
+          "name": "Creator",
+          "price": "$49/month",
+          "features": ["1 user seat", "Unlimited words", "50+ templates", "Chat support", "Browser extension"]
+        },
+        {
+          "name": "Teams",
+          "price": "$125/month",
+          "features": ["3 user seats", "Collaboration", "Brand voice", "Team workflows", "Priority support"]
+        },
+        {
+          "name": "Business",
+          "price": "Custom",
+          "features": ["Custom seats", "API access", "Custom templates", "Dedicated support", "Training"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://jasper.ai",
+      "signup": "https://app.jasper.ai/signup",
+      "documentation": "https://help.jasper.ai",
+      "affiliate_link": "https://jasper.ai"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://jasper.ai",
+      "expires": null
+    },
+    "features": ["Brand voice", "SEO optimization", "Template library", "API integration", "Analytics dashboard"],
+    "rating": 4.5,
+    "popularity_rank": 18,
+    "release_date": "2021-02-01",
+    "last_updated": "2025-10-06"
+  },
+  {
+    "tool_id": "TOOL-019",
+    "name": "Otter.ai",
+    "provider": "Otter.ai",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Otter&backgroundColor=2563eb",
+    "description": "AI meeting assistant that records audio, writes notes, captures slides, and generates summaries. Real-time transcription with speaker identification.",
+    "category": "Productivity",
+    "use_cases": [
+      "Meeting transcription",
+      "Interview recording",
+      "Lecture notes",
+      "Podcast transcription",
+      "Team collaboration"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "300 monthly transcription minutes",
+      "paid_plans": [
+        {
+          "name": "Pro",
+          "price": "$16.99/month",
+          "features": ["1,200 minutes/month", "Advanced search", "Custom vocabulary", "Export options"]
+        },
+        {
+          "name": "Business",
+          "price": "$30/user/month",
+          "features": ["6,000 minutes/month", "Admin dashboard", "Priority support", "SAML SSO"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://otter.ai",
+      "signup": "https://otter.ai/signup",
+      "documentation": "https://help.otter.ai",
+      "affiliate_link": "https://otter.ai"
+    },
+    "coupon": {
+      "available": false,
+      "code": null,
+      "discount": null,
+      "partner_link": "https://otter.ai",
+      "expires": null
+    },
+    "features": ["Real-time transcription", "Speaker identification", "Meeting summaries", "Integration with Zoom", "Mobile apps"],
+    "rating": 4.6,
+    "popularity_rank": 19,
+    "release_date": "2016-02-01",
+    "last_updated": "2025-10-11"
+  },
+  {
+    "tool_id": "TOOL-020",
+    "name": "Leonardo.AI",
+    "provider": "Leonardo Interactive",
+    "logo_url": "https://api.dicebear.com/7.x/shapes/svg?seed=Leonardo&backgroundColor=8b5cf6",
+    "description": "AI art generator focused on game assets and creative projects. Offers fine-tuned models for consistent style and character generation with advanced control.",
+    "category": "Image Generation",
+    "use_cases": [
+      "Game asset creation",
+      "Character design",
+      "Concept art",
+      "Environment design",
+      "Style-consistent artwork"
+    ],
+    "pricing": {
+      "model": "Freemium",
+      "free_tier": "150 daily tokens for image generation",
+      "paid_plans": [
+        {
+          "name": "Apprentice",
+          "price": "$12/month",
+          "features": ["8,500 tokens/month", "Private generations", "Relaxed mode", "Higher resolution"]
+        },
+        {
+          "name": "Artisan",
+          "price": "$30/month",
+          "features": ["25,000 tokens/month", "No ads", "Priority queue", "Early access features"]
+        },
+        {
+          "name": "Maestro",
+          "price": "$60/month",
+          "features": ["60,000 tokens/month", "Highest priority", "Custom models", "API access"]
+        }
+      ]
+    },
+    "links": {
+      "website": "https://leonardo.ai",
+      "signup": "https://app.leonardo.ai",
+      "documentation": "https://docs.leonardo.ai",
+      "affiliate_link": "https://leonardo.ai"
+    },
+    "coupon": {
+      "available": true,
+      "code": "CREATE2025",
+      "discount": "First month 50% off on Artisan plan",
+      "partner_link": "https://app.leonardo.ai?promo=CREATE2025",
+      "expires": "2025-12-15"
+    },
+    "features": ["Fine-tuned models", "Consistent characters", "Canvas editor", "Community models", "Prompt enhancement"],
+    "rating": 4.7,
+    "popularity_rank": 20,
+    "release_date": "2022-11-01",
+    "last_updated": "2025-10-13"
+  }
+]
+

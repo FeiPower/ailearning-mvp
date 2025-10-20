@@ -1,0 +1,419 @@
+[
+  {
+    "course_id": "CRS-IA-MED-001",
+    "title": "Fundamentos de IA Aplicada a la Medicina",
+    "slug": "fundamentos-ia-medicina",
+    "description": "Aprende los conceptos fundamentales de inteligencia artificial y su aplicación práctica en el sector salud. Desde machine learning hasta casos de uso reales.",
+    "price_usd": 280,
+    "price_mxn": 5600,
+    "status": "published",
+    "enrollment_count": 847,
+    "completion_rate": 78,
+    "average_rating": 4.7,
+    "total_duration_hours": 12,
+    "level": "Principiante",
+    "language": "Español",
+    "thumbnail": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&h=300&fit=crop",
+    "instructor_id": "USR-2025-0004",
+    "created_at": "2024-06-01",
+    "updated_at": "2024-10-01",
+    "modules": [
+      {
+        "module_id": "MOD-001-01",
+        "title": "Introducción a la IA en Medicina",
+        "order": 1,
+        "duration_minutes": 180,
+        "lessons": [
+          {
+            "lesson_id": "LSN-001-01-01",
+            "title": "¿Qué es la Inteligencia Artificial?",
+            "order": 1,
+            "duration_minutes": 12,
+            "type": "video",
+            "is_preview": true,
+            "video_url": "https://example.com/video1.mp4"
+          },
+          {
+            "lesson_id": "LSN-001-01-02",
+            "title": "Historia de la IA en Medicina",
+            "order": 2,
+            "duration_minutes": 15,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video2.mp4"
+          },
+          {
+            "lesson_id": "LSN-001-01-03",
+            "title": "Aplicaciones Actuales",
+            "order": 3,
+            "duration_minutes": 18,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video3.mp4"
+          },
+          {
+            "lesson_id": "LSN-001-01-04",
+            "title": "Quiz: Conceptos Básicos",
+            "order": 4,
+            "duration_minutes": 10,
+            "type": "quiz",
+            "is_preview": false
+          }
+        ]
+      },
+      {
+        "module_id": "MOD-001-02",
+        "title": "Machine Learning para Médicos",
+        "order": 2,
+        "duration_minutes": 240,
+        "lessons": [
+          {
+            "lesson_id": "LSN-001-02-01",
+            "title": "¿Qué es Machine Learning?",
+            "order": 1,
+            "duration_minutes": 20,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video4.mp4"
+          },
+          {
+            "lesson_id": "LSN-001-02-02",
+            "title": "Tipos de Machine Learning",
+            "order": 2,
+            "duration_minutes": 25,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video5.mp4"
+          },
+          {
+            "lesson_id": "LSN-001-02-03",
+            "title": "Casos de Uso en Diagnóstico",
+            "order": 3,
+            "duration_minutes": 30,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video6.mp4"
+          },
+          {
+            "lesson_id": "LSN-001-02-04",
+            "title": "Quiz: Machine Learning",
+            "order": 4,
+            "duration_minutes": 15,
+            "type": "quiz",
+            "is_preview": false
+          }
+        ]
+      },
+      {
+        "module_id": "MOD-001-03",
+        "title": "Deep Learning y Redes Neuronales",
+        "order": 3,
+        "duration_minutes": 300,
+        "lessons": [
+          {
+            "lesson_id": "LSN-001-03-01",
+            "title": "Introducción a Deep Learning",
+            "order": 1,
+            "duration_minutes": 22,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video7.mp4"
+          },
+          {
+            "lesson_id": "LSN-001-03-02",
+            "title": "Redes Neuronales Convolucionales",
+            "order": 2,
+            "duration_minutes": 28,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video8.mp4"
+          },
+          {
+            "lesson_id": "LSN-001-03-03",
+            "title": "Análisis de Imágenes Médicas",
+            "order": 3,
+            "duration_minutes": 35,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video9.mp4"
+          },
+          {
+            "lesson_id": "LSN-001-03-04",
+            "title": "Proyecto Final",
+            "order": 4,
+            "duration_minutes": 60,
+            "type": "assignment",
+            "is_preview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "CRS-IA-MED-002",
+    "title": "Ética, Equidad y Gobernanza en IA Médica",
+    "slug": "etica-ia-medicina",
+    "description": "Explora los aspectos éticos, legales y de gobernanza en la implementación de IA en medicina. Aprende sobre sesgos, privacidad y regulaciones.",
+    "price_usd": 250,
+    "price_mxn": 5000,
+    "status": "published",
+    "enrollment_count": 623,
+    "completion_rate": 82,
+    "average_rating": 4.8,
+    "total_duration_hours": 10,
+    "level": "Intermedio",
+    "language": "Español",
+    "thumbnail": "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?w=400&h=300&fit=crop",
+    "instructor_id": "USR-2025-0004",
+    "created_at": "2024-07-01",
+    "updated_at": "2024-10-05",
+    "modules": [
+      {
+        "module_id": "MOD-002-01",
+        "title": "Ética en IA Médica",
+        "order": 1,
+        "duration_minutes": 200,
+        "lessons": [
+          {
+            "lesson_id": "LSN-002-01-01",
+            "title": "Principios Éticos Fundamentales",
+            "order": 1,
+            "duration_minutes": 18,
+            "type": "video",
+            "is_preview": true,
+            "video_url": "https://example.com/video10.mp4"
+          },
+          {
+            "lesson_id": "LSN-002-01-02",
+            "title": "Sesgos en Algoritmos",
+            "order": 2,
+            "duration_minutes": 25,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video11.mp4"
+          },
+          {
+            "lesson_id": "LSN-002-01-03",
+            "title": "Consentimiento Informado",
+            "order": 3,
+            "duration_minutes": 20,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video12.mp4"
+          }
+        ]
+      },
+      {
+        "module_id": "MOD-002-02",
+        "title": "Privacidad y Protección de Datos",
+        "order": 2,
+        "duration_minutes": 180,
+        "lessons": [
+          {
+            "lesson_id": "LSN-002-02-01",
+            "title": "HIPAA y Regulaciones",
+            "order": 1,
+            "duration_minutes": 22,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video13.mp4"
+          },
+          {
+            "lesson_id": "LSN-002-02-02",
+            "title": "Anonimización de Datos",
+            "order": 2,
+            "duration_minutes": 20,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video14.mp4"
+          },
+          {
+            "lesson_id": "LSN-002-02-03",
+            "title": "Casos de Estudio",
+            "order": 3,
+            "duration_minutes": 30,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video15.mp4"
+          }
+        ]
+      },
+      {
+        "module_id": "MOD-002-03",
+        "title": "Gobernanza y Regulación",
+        "order": 3,
+        "duration_minutes": 220,
+        "lessons": [
+          {
+            "lesson_id": "LSN-002-03-01",
+            "title": "Marco Regulatorio Internacional",
+            "order": 1,
+            "duration_minutes": 25,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video16.mp4"
+          },
+          {
+            "lesson_id": "LSN-002-03-02",
+            "title": "Implementación Responsable",
+            "order": 2,
+            "duration_minutes": 28,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video17.mp4"
+          },
+          {
+            "lesson_id": "LSN-002-03-03",
+            "title": "Evaluación Final",
+            "order": 3,
+            "duration_minutes": 45,
+            "type": "exam",
+            "is_preview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "CRS-IA-MED-003",
+    "title": "IA Generativa en la Práctica Médica",
+    "slug": "ia-generativa-medicina",
+    "description": "Domina las herramientas de IA generativa como ChatGPT, DALL-E y otras aplicaciones para mejorar tu práctica médica diaria.",
+    "price_usd": 320,
+    "price_mxn": 6400,
+    "status": "published",
+    "enrollment_count": 512,
+    "completion_rate": 75,
+    "average_rating": 4.9,
+    "total_duration_hours": 14,
+    "level": "Avanzado",
+    "language": "Español",
+    "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+    "instructor_id": "USR-2025-0004",
+    "created_at": "2024-08-01",
+    "updated_at": "2024-10-10",
+    "modules": [
+      {
+        "module_id": "MOD-003-01",
+        "title": "Introducción a IA Generativa",
+        "order": 1,
+        "duration_minutes": 240,
+        "lessons": [
+          {
+            "lesson_id": "LSN-003-01-01",
+            "title": "¿Qué es la IA Generativa?",
+            "order": 1,
+            "duration_minutes": 15,
+            "type": "video",
+            "is_preview": true,
+            "video_url": "https://example.com/video18.mp4"
+          },
+          {
+            "lesson_id": "LSN-003-01-02",
+            "title": "Modelos de Lenguaje Grande (LLMs)",
+            "order": 2,
+            "duration_minutes": 25,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video19.mp4"
+          },
+          {
+            "lesson_id": "LSN-003-01-03",
+            "title": "ChatGPT para Médicos",
+            "order": 3,
+            "duration_minutes": 30,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video20.mp4"
+          },
+          {
+            "lesson_id": "LSN-003-01-04",
+            "title": "Práctica: Prompting Efectivo",
+            "order": 4,
+            "duration_minutes": 40,
+            "type": "assignment",
+            "is_preview": false
+          }
+        ]
+      },
+      {
+        "module_id": "MOD-003-02",
+        "title": "Aplicaciones Prácticas",
+        "order": 2,
+        "duration_minutes": 300,
+        "lessons": [
+          {
+            "lesson_id": "LSN-003-02-01",
+            "title": "Documentación Clínica Automatizada",
+            "order": 1,
+            "duration_minutes": 28,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video21.mp4"
+          },
+          {
+            "lesson_id": "LSN-003-02-02",
+            "title": "Generación de Resúmenes Médicos",
+            "order": 2,
+            "duration_minutes": 32,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video22.mp4"
+          },
+          {
+            "lesson_id": "LSN-003-02-03",
+            "title": "Asistencia en Investigación",
+            "order": 3,
+            "duration_minutes": 30,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video23.mp4"
+          },
+          {
+            "lesson_id": "LSN-003-02-04",
+            "title": "Proyecto Final: Caso Real",
+            "order": 4,
+            "duration_minutes": 90,
+            "type": "project",
+            "is_preview": false
+          }
+        ]
+      },
+      {
+        "module_id": "MOD-003-03",
+        "title": "Futuro y Tendencias",
+        "order": 3,
+        "duration_minutes": 300,
+        "lessons": [
+          {
+            "lesson_id": "LSN-003-03-01",
+            "title": "Multimodalidad en IA",
+            "order": 1,
+            "duration_minutes": 25,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video24.mp4"
+          },
+          {
+            "lesson_id": "LSN-003-03-02",
+            "title": "IA en Medicina Personalizada",
+            "order": 2,
+            "duration_minutes": 28,
+            "type": "video",
+            "is_preview": false,
+            "video_url": "https://example.com/video25.mp4"
+          },
+          {
+            "lesson_id": "LSN-003-03-03",
+            "title": "Certificación Final",
+            "order": 3,
+            "duration_minutes": 60,
+            "type": "exam",
+            "is_preview": false
+          }
+        ]
+      }
+    ]
+  }
+]
+

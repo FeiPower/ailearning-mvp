@@ -1,0 +1,99 @@
+[
+  {
+    "user_id": "USR-TEAM-001",
+    "name": "Emma Johnson",
+    "email": "emma.johnson@hospital.mx",
+    "role": "Admin",
+    "status": "Active",
+    "last_active": "2 hours ago",
+    "license_status": "active",
+    "courses_completed": 3,
+    "progress_percentage": 75,
+    "last_login": "2025-10-20T14:30:00Z"
+  },
+  {
+    "user_id": "USR-TEAM-002",
+    "name": "Michael Smith",
+    "email": "michael.smith@hospital.mx",
+    "role": "Admin",
+    "status": "Active",
+    "last_active": "3 hours ago",
+    "license_status": "active",
+    "courses_completed": 5,
+    "progress_percentage": 88,
+    "last_login": "2025-10-20T13:15:00Z"
+  },
+  {
+    "user_id": "USR-TEAM-003",
+    "name": "Olivia Brown",
+    "email": "olivia.brown@hospital.mx",
+    "role": "Member",
+    "status": "Active",
+    "last_active": "2 days ago",
+    "license_status": "active",
+    "courses_completed": 2,
+    "progress_percentage": 45,
+    "last_login": "2025-10-18T09:20:00Z"
+  },
+  {
+    "user_id": "USR-TEAM-004",
+    "name": "William Davis",
+    "email": "william.davis@hospital.mx",
+    "role": "Member",
+    "status": "Active",
+    "last_active": "5 days ago",
+    "license_status": "active",
+    "courses_completed": 1,
+    "progress_percentage": 32,
+    "last_login": "2025-10-15T16:45:00Z"
+  },
+  {
+    "user_id": "USR-TEAM-005",
+    "name": "Sophia Martinez",
+    "email": "sophia.martinez@hospital.mx",
+    "role": "Assistant",
+    "status": "Active",
+    "last_active": "4 months ago",
+    "license_status": "active",
+    "courses_completed": 0,
+    "progress_percentage": 12,
+    "last_login": "2025-06-15T10:30:00Z"
+  },
+  {
+    "user_id": "USR-TEAM-006",
+    "name": "James Wilson",
+    "email": "james.wilson@hospital.mx",
+    "role": "Member",
+    "status": "Active",
+    "last_active": "1 day ago",
+    "license_status": "active",
+    "courses_completed": 4,
+    "progress_percentage": 92,
+    "last_login": "2025-10-19T11:00:00Z"
+  },
+  {
+    "user_id": "USR-TEAM-007",
+    "name": "Isabella Garcia",
+    "email": "isabella.garcia@hospital.mx",
+    "role": "Member",
+    "status": "Active",
+    "last_active": "3 hours ago",
+    "license_status": "active",
+    "courses_completed": 2,
+    "progress_percentage": 58,
+    "last_login": "2025-10-20T13:00:00Z"
+  },
+  {
+    "user_id": "USR-TEAM-008",
+    "name": "Benjamin Moore",
+    "email": "benjamin.moore@hospital.mx",
+    "role": "Member",
+    "status": "Pending",
+    "last_active": "Never",
+    "license_status": "pending",
+    "courses_completed": 0,
+    "progress_percentage": 0,
+    "last_login": null
+  }
+]
+

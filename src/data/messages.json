@@ -1,0 +1,112 @@
+[
+  {
+    "conversation_id": "CONV-001",
+    "participant": {
+      "name": "Dr. Carlos Méndez",
+      "role": "Instructor",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Carlos"
+    },
+    "last_message": "Great progress on the AI fundamentals module!",
+    "last_message_time": "2025-10-20T14:30:00Z",
+    "unread_count": 2,
+    "messages": [
+      {
+        "message_id": "MSG-001-01",
+        "sender": "instructor",
+        "content": "Hello! How are you progressing with the AI fundamentals course?",
+        "timestamp": "2025-10-19T10:00:00Z",
+        "read": true
+      },
+      {
+        "message_id": "MSG-001-02",
+        "sender": "student",
+        "content": "Hi Dr. Méndez! I'm doing well, currently on module 3. Really enjoying the deep learning content.",
+        "timestamp": "2025-10-19T15:30:00Z",
+        "read": true
+      },
+      {
+        "message_id": "MSG-001-03",
+        "sender": "instructor",
+        "content": "That's wonderful to hear! Let me know if you have any questions about neural networks.",
+        "timestamp": "2025-10-20T09:15:00Z",
+        "read": false
+      },
+      {
+        "message_id": "MSG-001-04",
+        "sender": "instructor",
+        "content": "Great progress on the AI fundamentals module!",
+        "timestamp": "2025-10-20T14:30:00Z",
+        "read": false
+      }
+    ]
+  },
+  {
+    "conversation_id": "CONV-002",
+    "participant": {
+      "name": "Support Team",
+      "role": "Support",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Support"
+    },
+    "last_message": "Your certificate has been processed successfully.",
+    "last_message_time": "2025-10-18T11:20:00Z",
+    "unread_count": 0,
+    "messages": [
+      {
+        "message_id": "MSG-002-01",
+        "sender": "student",
+        "content": "Hi, I completed the course but haven't received my certificate yet.",
+        "timestamp": "2025-10-18T09:00:00Z",
+        "read": true
+      },
+      {
+        "message_id": "MSG-002-02",
+        "sender": "support",
+        "content": "Thank you for reaching out! Let me check on that for you.",
+        "timestamp": "2025-10-18T09:15:00Z",
+        "read": true
+      },
+      {
+        "message_id": "MSG-002-03",
+        "sender": "support",
+        "content": "Your certificate has been processed successfully. You can download it from your dashboard.",
+        "timestamp": "2025-10-18T11:20:00Z",
+        "read": true
+      }
+    ]
+  },
+  {
+    "conversation_id": "CONV-003",
+    "participant": {
+      "name": "María González",
+      "role": "Study Group",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Maria"
+    },
+    "last_message": "See you at the study session tomorrow!",
+    "last_message_time": "2025-10-17T18:45:00Z",
+    "unread_count": 0,
+    "messages": [
+      {
+        "message_id": "MSG-003-01",
+        "sender": "peer",
+        "content": "Hey! Want to join our study group for the ethics module?",
+        "timestamp": "2025-10-17T16:00:00Z",
+        "read": true
+      },
+      {
+        "message_id": "MSG-003-02",
+        "sender": "student",
+        "content": "That sounds great! What time works for everyone?",
+        "timestamp": "2025-10-17T17:30:00Z",
+        "read": true
+      },
+      {
+        "message_id": "MSG-003-03",
+        "sender": "peer",
+        "content": "See you at the study session tomorrow!",
+        "timestamp": "2025-10-17T18:45:00Z",
+        "read": true
+      }
+    ]
+  }
+]
+

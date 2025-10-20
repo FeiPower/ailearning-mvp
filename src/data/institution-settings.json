@@ -1,0 +1,70 @@
+{
+  "institution_id": "INS-001",
+  "institution_name": "Hospital ABC",
+  "subscription_plan": "Enterprise",
+  "billing": {
+    "total_licenses": 1500,
+    "licenses_used": 1250,
+    "monthly_cost_usd": 15000,
+    "billing_cycle": "annual",
+    "next_billing_date": "2026-01-01",
+    "payment_method": "Corporate Card ****4532"
+  },
+  "branding": {
+    "logo_url": "/assets/hospital-abc-logo.png",
+    "primary_color": "#2C5AA0",
+    "secondary_color": "#00A651",
+    "custom_domain": "learning.hospitalabc.mx"
+  },
+  "features": {
+    "sso_enabled": true,
+    "custom_branding": true,
+    "api_access": true,
+    "priority_support": true,
+    "white_label": false,
+    "advanced_analytics": true,
+    "custom_courses": true
+  },
+  "integrations": {
+    "sso_provider": "Azure AD",
+    "lms_integration": "Moodle",
+    "video_platform": "Vimeo",
+    "analytics": "Google Analytics"
+  },
+  "course_catalog": {
+    "available_courses": 8,
+    "custom_courses": 2,
+    "total_enrollments": 3420,
+    "completion_rate": 78.5
+  },
+  "administrators": [
+    {
+      "user_id": "USR-2025-0003",
+      "name": "Emma Johnson",
+      "email": "emma.johnson@hospital.mx",
+      "role": "Primary Admin",
+      "permissions": ["all"]
+    },
+    {
+      "user_id": "USR-TEAM-002",
+      "name": "Michael Smith",
+      "email": "michael.smith@hospital.mx",
+      "role": "Secondary Admin",
+      "permissions": ["users", "licenses", "reports"]
+    }
+  ],
+  "notifications": {
+    "weekly_reports": true,
+    "license_expiration_alerts": true,
+    "completion_notifications": true,
+    "inactivity_alerts": true,
+    "alert_email": "admin@hospital.mx"
+  },
+  "policies": {
+    "password_policy": "strong",
+    "session_timeout_minutes": 60,
+    "require_mfa": false,
+    "data_retention_days": 365
+  }
+}
+

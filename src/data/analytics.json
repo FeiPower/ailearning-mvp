@@ -1,0 +1,125 @@
+{
+  "platform_stats": {
+    "total_users": 3847,
+    "active_users_this_month": 2156,
+    "new_users_this_month": 345,
+    "total_courses": 8,
+    "total_enrollments": 12456,
+    "revenue_this_month_usd": 127500,
+    "revenue_growth_percentage": 23.5,
+    "average_completion_rate": 78.5,
+    "total_learning_hours": 48920
+  },
+  "student_dashboard": {
+    "user_id": "USR-2025-0001",
+    "courses_in_progress": [
+      {
+        "course_id": "CRS-IA-MED-001",
+        "title": "Fundamentos de IA Aplicada a la Medicina",
+        "progress_percentage": 72,
+        "next_lesson": "Redes Neuronales Convolucionales",
+        "thumbnail": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&h=300&fit=crop",
+        "time_remaining_hours": 3.5
+      },
+      {
+        "course_id": "CRS-IA-MED-002",
+        "title": "Ética, Equidad y Gobernanza",
+        "progress_percentage": 45,
+        "next_lesson": "HIPAA y Regulaciones",
+        "thumbnail": "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?w=400&h=300&fit=crop",
+        "time_remaining_hours": 5.5
+      },
+      {
+        "course_id": "CRS-IA-MED-003",
+        "title": "IA Generativa en la Práctica Médica",
+        "progress_percentage": 90,
+        "next_lesson": "IA en Medicina Personalizada",
+        "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+        "time_remaining_hours": 1.4
+      },
+      {
+        "course_id": "CRS-IA-MED-001",
+        "title": "Introducción a la Programación",
+        "progress_percentage": 25,
+        "next_lesson": "Variables y Tipos de Datos",
+        "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=300&fit=crop",
+        "time_remaining_hours": 9.0
+      }
+    ],
+    "study_time_week": [
+      { "day": "Sun", "hours": 0.5 },
+      { "day": "Mon", "hours": 1.8 },
+      { "day": "Tue", "hours": 0.8 },
+      { "day": "Wed", "hours": 1.5 },
+      { "day": "Thu", "hours": 2.5 },
+      { "day": "Fri", "hours": 2.8 },
+      { "day": "Sat", "hours": 1.2 }
+    ],
+    "course_completion": {
+      "in_progress": 60,
+      "not_started": 25,
+      "completed": 15
+    },
+    "upcoming_deadlines": [
+      {
+        "task": "Quiz módulo 3",
+        "course": "Fundamentos de IA",
+        "due_date": "2025-10-25",
+        "priority": "high"
+      },
+      {
+        "task": "Proyecto Final",
+        "course": "IA Generativa",
+        "due_date": "2025-10-28",
+        "priority": "medium"
+      }
+    ],
+    "recent_achievements": [
+      {
+        "title": "7 días consecutivos",
+        "description": "Mantén tu racha de aprendizaje",
+        "icon": "🔥",
+        "date": "2025-10-20"
+      },
+      {
+        "title": "Módulo completado",
+        "description": "Machine Learning para Médicos",
+        "icon": "🎯",
+        "date": "2025-10-18"
+      }
+    ]
+  },
+  "admin_dashboard": {
+    "kpi_cards": {
+      "active_users": 1250,
+      "new_users": 125,
+      "licenses_allocated": 1200,
+      "licenses_available": 300,
+      "licenses_expired": 100,
+      "team_completion_rate": 68,
+      "engagement_score": 82,
+      "average_progress": 45
+    },
+    "usage_trends_monthly": [
+      { "month": "Jan", "value": 850 },
+      { "month": "Feb", "value": 920 },
+      { "month": "Mar", "value": 1050 },
+      { "month": "Apr", "value": 980 },
+      { "month": "May", "value": 1150 },
+      { "month": "Jun", "value": 1200 },
+      { "month": "Jul", "value": 1180 },
+      { "month": "Aug", "value": 1220 },
+      { "month": "Sep", "value": 1240 },
+      { "month": "Oct", "value": 1250 },
+      { "month": "Nov", "value": 1210 },
+      { "month": "Dec", "value": 1280 }
+    ],
+    "performance_data": [
+      { "month": "Jan", "value": 95 },
+      { "month": "Feb", "value": 125 },
+      { "month": "Mar", "value": 165 },
+      { "month": "Apr", "value": 220 }
+    ]
+  }
+}
+

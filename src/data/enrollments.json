@@ -1,0 +1,81 @@
+[
+  {
+    "enrollment_id": "ENR-2025-0001",
+    "user_id": "USR-2025-0001",
+    "course_id": "CRS-IA-MED-001",
+    "status": "in_progress",
+    "progress_percentage": 72,
+    "enrolled_date": "2024-09-01",
+    "last_accessed": "2024-10-20",
+    "completed_lessons": 8,
+    "total_lessons": 11,
+    "current_lesson_id": "LSN-001-03-02",
+    "time_spent_minutes": 485
+  },
+  {
+    "enrollment_id": "ENR-2025-0002",
+    "user_id": "USR-2025-0001",
+    "course_id": "CRS-IA-MED-002",
+    "status": "in_progress",
+    "progress_percentage": 45,
+    "enrolled_date": "2024-09-15",
+    "last_accessed": "2024-10-19",
+    "completed_lessons": 4,
+    "total_lessons": 9,
+    "current_lesson_id": "LSN-002-02-01",
+    "time_spent_minutes": 295
+  },
+  {
+    "enrollment_id": "ENR-2025-0003",
+    "user_id": "USR-2025-0001",
+    "course_id": "CRS-IA-MED-003",
+    "status": "in_progress",
+    "progress_percentage": 90,
+    "enrolled_date": "2024-08-20",
+    "last_accessed": "2024-10-18",
+    "completed_lessons": 9,
+    "total_lessons": 10,
+    "current_lesson_id": "LSN-003-03-02",
+    "time_spent_minutes": 720
+  },
+  {
+    "enrollment_id": "ENR-2025-0004",
+    "user_id": "USR-2025-0001",
+    "course_id": "CRS-IA-MED-001",
+    "status": "not_started",
+    "progress_percentage": 25,
+    "enrolled_date": "2024-10-10",
+    "last_accessed": "2024-10-12",
+    "completed_lessons": 2,
+    "total_lessons": 11,
+    "current_lesson_id": "LSN-001-01-03",
+    "time_spent_minutes": 45
+  },
+  {
+    "enrollment_id": "ENR-2025-0005",
+    "user_id": "USR-2025-0002",
+    "course_id": "CRS-IA-MED-001",
+    "status": "in_progress",
+    "progress_percentage": 35,
+    "enrolled_date": "2024-09-25",
+    "last_accessed": "2024-10-20",
+    "completed_lessons": 4,
+    "total_lessons": 11,
+    "current_lesson_id": "LSN-001-02-01",
+    "time_spent_minutes": 210
+  },
+  {
+    "enrollment_id": "ENR-2025-0006",
+    "user_id": "USR-2025-0002",
+    "course_id": "CRS-IA-MED-002",
+    "status": "in_progress",
+    "progress_percentage": 55,
+    "enrolled_date": "2024-10-01",
+    "last_accessed": "2024-10-19",
+    "completed_lessons": 5,
+    "total_lessons": 9,
+    "current_lesson_id": "LSN-002-02-03",
+    "time_spent_minutes": 330
+  }
+]
+

@@ -1,0 +1,83 @@
+[
+  {
+    "achievement_id": "ACH-001",
+    "title": "First Step",
+    "description": "Complete your first lesson",
+    "icon": "🎯",
+    "category": "milestone",
+    "points": 10,
+    "unlocked": true,
+    "unlocked_date": "2024-09-02"
+  },
+  {
+    "achievement_id": "ACH-002",
+    "title": "Week Warrior",
+    "description": "Maintain a 7-day learning streak",
+    "icon": "🔥",
+    "category": "streak",
+    "points": 50,
+    "unlocked": true,
+    "unlocked_date": "2025-10-20"
+  },
+  {
+    "achievement_id": "ACH-003",
+    "title": "Course Completer",
+    "description": "Complete your first course",
+    "icon": "🏆",
+    "category": "completion",
+    "points": 100,
+    "unlocked": false,
+    "unlocked_date": null
+  },
+  {
+    "achievement_id": "ACH-004",
+    "title": "Quiz Master",
+    "description": "Score 100% on any quiz",
+    "icon": "⭐",
+    "category": "performance",
+    "points": 75,
+    "unlocked": true,
+    "unlocked_date": "2024-10-05"
+  },
+  {
+    "achievement_id": "ACH-005",
+    "title": "Fast Learner",
+    "description": "Complete 5 lessons in one day",
+    "icon": "⚡",
+    "category": "speed",
+    "points": 60,
+    "unlocked": false,
+    "unlocked_date": null
+  },
+  {
+    "achievement_id": "ACH-006",
+    "title": "Dedicated Student",
+    "description": "Study for 20+ hours total",
+    "icon": "📚",
+    "category": "milestone",
+    "points": 80,
+    "unlocked": true,
+    "unlocked_date": "2025-10-15"
+  },
+  {
+    "achievement_id": "ACH-007",
+    "title": "Month Master",
+    "description": "Maintain a 30-day learning streak",
+    "icon": "🌟",
+    "category": "streak",
+    "points": 200,
+    "unlocked": false,
+    "unlocked_date": null
+  },
+  {
+    "achievement_id": "ACH-008",
+    "title": "Social Learner",
+    "description": "Join a study group",
+    "icon": "👥",
+    "category": "social",
+    "points": 40,
+    "unlocked": true,
+    "unlocked_date": "2024-10-17"
+  }
+]
+

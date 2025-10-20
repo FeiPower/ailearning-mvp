@@ -1,0 +1,33 @@
+[
+  {
+    "notification_id": "NOT-001",
+    "user_id": "USR-2025-0001",
+    "type": "deadline",
+    "title": "Quiz próximo a vencer",
+    "message": "El quiz del módulo 3 vence en 5 días",
+    "link": "/course/CRS-IA-MED-001/lesson/LSN-001-03-04",
+    "is_read": false,
+    "created_at": "2025-10-20T10:00:00Z"
+  },
+  {
+    "notification_id": "NOT-002",
+    "user_id": "USR-2025-0001",
+    "type": "achievement",
+    "title": "¡Nueva insignia desbloqueada!",
+    "message": "Has mantenido una racha de 7 días consecutivos",
+    "link": "/achievements",
+    "is_read": false,
+    "created_at": "2025-10-20T08:00:00Z"
+  },
+  {
+    "notification_id": "NOT-003",
+    "user_id": "USR-2025-0001",
+    "type": "course",
+    "title": "Nuevo curso disponible",
+    "message": "Deep Learning Avanzado ya está disponible",
+    "link": "/courses",
+    "is_read": true,
+    "created_at": "2025-10-19T15:30:00Z"
+  }
+]
+

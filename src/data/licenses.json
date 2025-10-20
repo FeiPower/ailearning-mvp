@@ -1,0 +1,99 @@
+[
+  {
+    "license_id": "LIC-001",
+    "user_id": "USR-TEAM-001",
+    "user_name": "Emma Johnson",
+    "user_email": "emma.johnson@hospital.mx",
+    "license_type": "Professional",
+    "status": "active",
+    "assigned_date": "2024-07-01",
+    "expiration_date": "2025-07-01",
+    "last_used": "2025-10-20T14:30:00Z",
+    "courses_accessed": 3
+  },
+  {
+    "license_id": "LIC-002",
+    "user_id": "USR-TEAM-002",
+    "user_name": "Michael Smith",
+    "user_email": "michael.smith@hospital.mx",
+    "license_type": "Professional",
+    "status": "active",
+    "assigned_date": "2024-07-01",
+    "expiration_date": "2025-07-01",
+    "last_used": "2025-10-20T13:15:00Z",
+    "courses_accessed": 5
+  },
+  {
+    "license_id": "LIC-003",
+    "user_id": "USR-TEAM-003",
+    "user_name": "Olivia Brown",
+    "user_email": "olivia.brown@hospital.mx",
+    "license_type": "Professional",
+    "status": "active",
+    "assigned_date": "2024-08-15",
+    "expiration_date": "2025-08-15",
+    "last_used": "2025-10-18T09:20:00Z",
+    "courses_accessed": 2
+  },
+  {
+    "license_id": "LIC-004",
+    "user_id": "USR-TEAM-004",
+    "user_name": "William Davis",
+    "user_email": "william.davis@hospital.mx",
+    "license_type": "Professional",
+    "status": "active",
+    "assigned_date": "2024-07-15",
+    "expiration_date": "2025-07-15",
+    "last_used": "2025-10-15T16:45:00Z",
+    "courses_accessed": 1
+  },
+  {
+    "license_id": "LIC-005",
+    "user_id": "USR-TEAM-005",
+    "user_name": "Sophia Martinez",
+    "user_email": "sophia.martinez@hospital.mx",
+    "license_type": "Basic",
+    "status": "active",
+    "assigned_date": "2024-06-01",
+    "expiration_date": "2025-06-01",
+    "last_used": "2025-06-15T10:30:00Z",
+    "courses_accessed": 0
+  },
+  {
+    "license_id": "LIC-006",
+    "user_id": null,
+    "user_name": null,
+    "user_email": null,
+    "license_type": "Professional",
+    "status": "available",
+    "assigned_date": null,
+    "expiration_date": "2025-12-31",
+    "last_used": null,
+    "courses_accessed": 0
+  },
+  {
+    "license_id": "LIC-007",
+    "user_id": "USR-TEAM-007",
+    "user_name": "Isabella Garcia",
+    "user_email": "isabella.garcia@hospital.mx",
+    "license_type": "Professional",
+    "status": "active",
+    "assigned_date": "2024-09-01",
+    "expiration_date": "2025-09-01",
+    "last_used": "2025-10-20T13:00:00Z",
+    "courses_accessed": 2
+  },
+  {
+    "license_id": "LIC-008",
+    "user_id": "USR-OLD-001",
+    "user_name": "Robert Williams",
+    "user_email": "robert.williams@hospital.mx",
+    "license_type": "Professional",
+    "status": "expired",
+    "assigned_date": "2023-10-01",
+    "expiration_date": "2024-10-01",
+    "last_used": "2024-09-28T10:00:00Z",
+    "courses_accessed": 4
+  }
+]
+
