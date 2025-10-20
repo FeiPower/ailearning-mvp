@@ -17,7 +17,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router basename="/139_AI_Fluency_Training/">
+    <Router basename="/ailearning-mvp/">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/student" element={<StudentDashboard />} />

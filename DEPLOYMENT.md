@@ -29,7 +29,7 @@
 4. **Verificar Deployment**
    - Ve a Actions tab en GitHub
    - Espera a que termine el workflow (2-3 minutos)
-   - Tu sitio estará disponible en: `https://[username].github.io/139_AI_Fluency_Training/`
+   - Tu sitio estará disponible en: `https://feipower.github.io/ailearning-mvp/`
 
 ### Troubleshooting
 
@@ -66,7 +66,7 @@ Este comando:
 
 Tu sitio estará disponible en:
 ```
-https://[tu-username].github.io/139_AI_Fluency_Training/
+https://feipower.github.io/ailearning-mvp/
 ```
 
 ## 📝 Actualizaciones
@@ -88,7 +88,7 @@ npm run deploy
 
 El base path está configurado en `vite.config.js`:
 ```js
-base: '/139_AI_Fluency_Training/'
+base: '/ailearning-mvp/'
 ```
 
 **Importante:** Si cambias el nombre del repositorio, actualiza este valor.
@@ -102,7 +102,7 @@ npm run build
 npm run preview
 ```
 
-Abre http://localhost:4173/139_AI_Fluency_Training/
+Abre http://localhost:4173/ailearning-mvp/
 
 ## 📦 Contenido del Deploy
 
